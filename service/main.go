@@ -137,7 +137,7 @@ const (
 	PROJECT_ID = "around-215120"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://104.196.130.45 :9200"
+	ES_URL = "http://104.196.130.45:9200"
 )
 
 func containsFilteredWords(s *string) bool {
